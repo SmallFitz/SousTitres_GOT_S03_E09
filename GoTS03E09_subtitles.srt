@@ -1458,7 +1458,7 @@ Je me rends.
 
 329
 00:23:19,344 --> 00:23:20,845
-Où sont Broussaille et Ã‰té ?
+Où sont Broussaille et Été ?
 
 330
 00:23:20,879 --> 00:23:22,880
@@ -1792,7 +1792,7 @@ Guerrier, Mère,
 
 406
 00:33:31,762 --> 00:33:34,798
-Vierge, AÃ¯eule, Ã‰trangerâ€¦
+Vierge, AÃ¯eule, Étrangerâ€¦
 
 407
 00:33:34,832 --> 00:33:36,933
@@ -1821,7 +1821,7 @@ Tu avais raison.
 412
 00:33:57,755 --> 00:34:00,256
 Je peux m'immiscer dans l'esprit
-d'Ã‰té quand je veux.
+d'Été quand je veux.
 
 413
 00:34:00,323 --> 00:34:02,491
@@ -1859,7 +1859,7 @@ Personne ne peut faire Ã§aâ€¦
 421
 00:34:30,520 --> 00:34:33,155
 Quand j'ai regardé Ã  travers
-les yeux d'Ã‰té,
+les yeux d'Été,
 
 422
 00:34:33,189 --> 00:34:34,856
@@ -1913,7 +1913,7 @@ corbeau Ã  trois yeux.</i>
 
 433
 00:34:58,781 --> 00:35:00,349
-Ã‰coute-moi, petit lord.
+Écoute-moi, petit lord.
 
 434
 00:35:00,383 --> 00:35:01,616
