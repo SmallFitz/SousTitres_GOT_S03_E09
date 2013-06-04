@@ -120,7 +120,7 @@ mon cÅ“ur est vÃ´tre.
 
 26
 00:01:03,699 --> 00:01:06,234
-- Ã€ Port-Réal.
+- Â Port-Réal.
 - C'est la Ruffurque.
 
 27
@@ -824,7 +824,7 @@ Impossible Ã  maintenir.
 
 186
 00:13:21,708 --> 00:13:24,043
-Ã€ part ChÃ¢teaunoir,
+Â part ChÃ¢teaunoir,
 
 187
 00:13:24,077 --> 00:13:26,545
