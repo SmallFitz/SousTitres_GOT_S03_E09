@@ -1,7 +1,7 @@
 ﻿1
 00:00:01,167 --> 00:00:03,735
 <i>Tu crois que je ne t'entends pas parler
-de visions Ã  longueur de journÃ©e ?</i>
+de visions Ã  longueur de journée ?</i>
 
 2
 00:00:03,769 --> 00:00:05,703
@@ -68,7 +68,7 @@ Il n'y a qu'une seule personne
 
 15
 00:00:34,469 --> 00:00:37,004
-avec ce genre d'armÃ©e.
+avec ce genre d'armée.
 Walder Frey.
 
 16
@@ -79,11 +79,11 @@ donner Ã  Lord Frey ce dont il a besoin.
 17
 00:00:39,941 --> 00:00:43,410
 Notre pÃ¨re requiert Lord Edmure
-pour Ã©pouser une de ses filles.
+pour épouser une de ses filles.
 
 18
 00:00:43,444 --> 00:00:46,113
-- Vous avez Ã©tÃ© envoyÃ© pour me tuer ?
+- Vous avez été envoyé pour me tuer ?
 - Je n'en ai pas envie.
 
 19
@@ -101,12 +101,12 @@ Vous battrez vous pour moi ?
 
 22
 00:00:53,221 --> 00:00:56,257
-Les PuinÃ©s sont vÃ´tres
+Les Puinés sont vÃ´tres
 tout comme Daario Naharis.
 
 23
 00:00:56,291 --> 00:00:58,326
-Mon Ã©pÃ©e est vÃ´tre,
+Mon épée est vÃ´tre,
 ma vie est vÃ´tre,
 
 24
@@ -115,12 +115,12 @@ mon cÅ“ur est vÃ´tre.
 
 25
 00:01:00,129 --> 00:01:03,665
-- Est-ce la NÃ©ra ?
+- Est-ce la Néra ?
 - OÃ¹ crois-tu que je t'emmÃ¨ne ?
 
 26
 00:01:03,699 --> 00:01:06,234
-- Ã€ Port-RÃ©al.
+- Ã€ Port-Réal.
 - C'est la Ruffurque.
 
 27
@@ -129,7 +129,7 @@ Je tâ€™emmÃ¨ne aux Jumeaux.
 
 28
 00:01:07,804 --> 00:01:10,438
-Ton oncle Ã©pouse
+Ton oncle épouse
 une fille de Frey.
 
 29
@@ -161,7 +161,7 @@ comme une offense.
 
 35
 00:01:25,189 --> 00:01:26,622
-Il vient pour le bÃ©bÃ©.
+Il vient pour le bébé.
 
 36
 00:01:26,657 --> 00:01:27,924
@@ -178,7 +178,7 @@ Non, vous ne pouvez pas le prendre.
 39
 00:03:23,728 --> 00:03:34,691
 <b><font color="#ffff00">Encode Mux & Upload by johnchen</font></b>
-<b><font color="#ffff00">La MKV Corp vous souhaite une bonne sÃ©ance :)</font></b>
+<b><font color="#ffff00">La MKV Corp vous souhaite une bonne séance :)</font></b>
 
 40
 00:03:49,569 --> 00:03:52,871
@@ -198,7 +198,7 @@ Si nous prenons le ChÃ¢teau de Tywin,
 
 44
 00:04:02,282 --> 00:04:05,550
-les seigneurs des Westeros rÃ©aliseront
+les seigneurs des Westeros réaliseront
 qu'il n'est pas invincible.
 
 45
@@ -215,22 +215,22 @@ Pourquoi tu me dis Ã§a ?
 
 48
 00:04:15,027 --> 00:04:16,861
-Vous m'avez suppliÃ©
+Vous m'avez supplié
 de ne pas envoyer Theon
 
 49
 00:04:16,896 --> 00:04:20,799
-pour nÃ©gocier avec son pÃ¨re
-et j'ai ignorÃ© votre conseil.
+pour négocier avec son pÃ¨re
+et j'ai ignoré votre conseil.
 
 50
 00:04:23,002 --> 00:04:25,137
 Maintenant Winterfell
-est rÃ©duit en cendres,
+est réduit en cendres,
 
 51
 00:04:25,171 --> 00:04:27,339
-le Nord est envahi de Fer-nÃ©s,
+le Nord est envahi de Fer-nés,
 
 52
 00:04:27,373 --> 00:04:29,441
@@ -258,7 +258,7 @@ Si Walder Frey coopÃ¨re.
 
 58
 00:05:02,141 --> 00:05:05,477
-Si des renforts arrivent de Port RÃ©al
+Si des renforts arrivent de Port Réal
 
 59
 00:05:05,511 --> 00:05:07,879
@@ -267,7 +267,7 @@ Si des renforts arrivent de Port RÃ©al
 60
 00:05:09,248 --> 00:05:13,084
 nous serons pris entre
-l'armÃ©e de Tywin et la mer.
+l'armée de Tywin et la mer.
 
 61
 00:05:17,355 --> 00:05:20,857
@@ -285,7 +285,7 @@ de perdre ce qu'ils aiment.
 
 64
 00:06:02,031 --> 00:06:04,533
-<i>Mes invitÃ©s d'honneurâ€¦</i>
+<i>Mes invités d'honneurâ€¦</i>
 
 65
 00:06:06,102 --> 00:06:08,604
@@ -297,7 +297,7 @@ et Ã  ma table.
 
 67
 00:06:12,476 --> 00:06:15,144
-<i>Je vous offre mon hospitalitÃ©</i>
+<i>Je vous offre mon hospitalité</i>
 
 68
 00:06:15,179 --> 00:06:19,015
@@ -307,7 +307,7 @@ et ma protection
 69
 00:06:19,049 --> 00:06:21,685
 Nous vous remercions
-de votre hospitalitÃ©, mon seigneur.
+de votre hospitalité, mon seigneur.
 
 70
 00:06:25,656 --> 00:06:28,525
@@ -325,13 +325,13 @@ votre Grace.
 
 73
 00:06:35,233 --> 00:06:38,368
-C'est pas moi que vous avez Ã©cartÃ©.
+C'est pas moi que vous avez écarté.
 Ce sont mes filles.
 
 74
 00:06:50,381 --> 00:06:53,550
 <i>L'une d'entre elle
-Ã©tait supposÃ©e devenir reine.</i>
+était supposée devenir reine.</i>
 
 75
 00:06:53,584 --> 00:06:55,251
@@ -352,7 +352,7 @@ ma fille Derwa,</i>
 
 79
 00:07:11,567 --> 00:07:13,802
-Mes petites-filles les plus agÃ©es
+Mes petites-filles les plus agées
 
 80
 00:07:13,837 --> 00:07:17,138
@@ -407,7 +407,7 @@ Et lÃ  ma plus jeune fille Shirei,
 
 92
 00:07:52,975 --> 00:07:55,911
-<i>bien qu'elle n'ait pas encore saignÃ©.</i>
+<i>bien qu'elle n'ait pas encore saigné.</i>
 
 93
 00:07:55,945 --> 00:07:58,814
@@ -425,8 +425,8 @@ leurs promesses, surtout les rois.
 
 96
 00:08:06,956 --> 00:08:09,925
-Je me suis engagÃ© Ã  Ã©pouser l'une
-d'entre vous, et j'ai brisÃ© ce vÅ“u.
+Je me suis engagé Ã  épouser l'une
+d'entre vous, et j'ai brisé ce vÅ“u.
 
 97
 00:08:09,959 --> 00:08:12,127
@@ -449,7 +449,7 @@ mais parce que j'en aimais une autre.
 101
 00:08:20,403 --> 00:08:22,304
 <i>Je sais que ces mots
-ne peuvent pas rÃ©parer</i>
+ne peuvent pas réparer</i>
 
 102
 00:08:22,338 --> 00:08:24,372
@@ -526,7 +526,7 @@ c'est certain.
 
 119
 00:09:40,918 --> 00:09:42,652
-De trÃ¨s belles formes Ã©galement.
+De trÃ¨s belles formes également.
 
 120
 00:09:44,288 --> 00:09:47,357
@@ -587,12 +587,12 @@ Et je peux respecter Ã§a.
 133
 00:10:29,131 --> 00:10:32,400
 Quand j'avais ton Ã¢ge,
-j'aurais brisÃ© 50 serments
+j'aurais brisé 50 serments
 
 134
 00:10:32,434 --> 00:10:35,869
 pour rentrer la dedans
-sans y rÃ©flÃ©chir Ã  deux fois.
+sans y réfléchir Ã  deux fois.
 
 135
 00:10:39,274 --> 00:10:42,676
@@ -614,7 +614,7 @@ Merci, mon seigneur.
 
 139
 00:10:52,654 --> 00:10:54,222
-Allons nous prÃ©parer.
+Allons nous préparer.
 
 140
 00:10:54,256 --> 00:10:56,291
@@ -639,7 +639,7 @@ LÃ .
 145
 00:11:23,486 --> 00:11:26,355
 LÃ .
-C'est une porte dÃ©robÃ©e.
+C'est une porte dérobée.
 
 146
 00:11:26,389 --> 00:11:29,291
@@ -652,7 +652,7 @@ Vos hommes, mais pas vous ?
 
 148
 00:11:31,061 --> 00:11:32,695
-<i>Je suis pas intÃ©ressÃ© par les esclaves.</i>
+<i>Je suis pas intéressé par les esclaves.</i>
 
 149
 00:11:32,730 --> 00:11:34,998
@@ -662,7 +662,7 @@ faire l'amour Ã  un bien.
 150
 00:11:38,236 --> 00:11:39,903
 On entrera par lÃ 
-dans la citÃ©.
+dans la cité.
 
 151
 00:11:39,971 --> 00:11:41,405
@@ -675,8 +675,8 @@ Ils me laisseront entrerâ€¦
 
 153
 00:11:42,974 --> 00:11:45,209
-Une armÃ©e ne peut pas se faufiler
-par une porte dÃ©robÃ©e.
+Une armée ne peut pas se faufiler
+par une porte dérobée.
 
 154
 00:11:45,244 --> 00:11:48,213
@@ -694,7 +694,7 @@ et ouvre la grande porte.
 
 157
 00:11:53,785 --> 00:11:55,386
-Alors entre l'armÃ©e.
+Alors entre l'armée.
 
 158
 00:11:55,420 --> 00:11:58,055
@@ -708,7 +708,7 @@ et moi Ã  l'abattoir,
 
 160
 00:12:01,027 --> 00:12:03,495
-tranchant la tÃªte de notre armÃ©e.
+tranchant la tÃªte de notre armée.
 
 161
 00:12:03,530 --> 00:12:06,265
@@ -722,7 +722,7 @@ et vous n'aurez pas
 
 163
 00:12:07,701 --> 00:12:09,702
-car vous avez dÃ©jÃ  tuÃ©
+car vous avez déjÃ  tué
 vos partenaires.
 
 164
@@ -732,12 +732,12 @@ trÃ¨s suspicieux.
 
 165
 00:12:12,239 --> 00:12:15,308
-D'expÃ©rience, seuls les hommes
+D'expérience, seuls les hommes
 sans honneur pensent comme Ã§a.
 
 166
 00:12:17,845 --> 00:12:19,679
-Tu commandes les ImmaculÃ©s.
+Tu commandes les Immaculés.
 
 167
 00:12:19,713 --> 00:12:22,082
@@ -765,7 +765,7 @@ TrÃ¨s bien.
 
 173
 00:12:38,231 --> 00:12:40,032
-On va se prÃ©parer.
+On va se préparer.
 
 174
 00:12:45,104 --> 00:12:46,738
@@ -774,7 +774,7 @@ Ser Jorah.
 175
 00:12:48,841 --> 00:12:50,442
 Vous pouvez utiliser
-une Ã©pÃ©e supplÃ©mentaire.
+une épée supplémentaire.
 
 176
 00:12:50,476 --> 00:12:52,978
@@ -797,7 +797,7 @@ nous ferons ce qui doit Ãªtre fait
 180
 00:12:59,619 --> 00:13:03,756
 peu importe le prix,
-peu importe notre fiertÃ©.
+peu importe notre fierté.
 
 181
 00:13:06,827 --> 00:13:09,329
@@ -809,12 +809,12 @@ mais le Fort Nox est plus prÃ¨s.
 
 183
 00:13:11,431 --> 00:13:14,534
-Il Ã©tait le premier chÃ¢teau
+Il était le premier chÃ¢teau
 le long du Mur.
 
 184
 00:13:14,568 --> 00:13:17,970
-La Garde l'a abandonnÃ©
+La Garde l'a abandonné
 sous le rÃ¨gne du Roi Jaehaerys I.
 
 185
@@ -842,7 +842,7 @@ que le Mur lui-mÃªme.
 
 190
 00:13:32,719 --> 00:13:36,455
-Apparemment plus utilisÃ©e
+Apparemment plus utilisée
 depuis des siÃ¨cles.
 
 191
@@ -896,8 +896,8 @@ Notre pÃ¨re avait l'habitude
 
 202
 00:14:30,376 --> 00:14:34,747
-que personne n'avait jamais regardÃ©
-le mur et survÃ©cu.
+que personne n'avait jamais regardé
+le mur et survécu.
 
 203
 00:14:34,782 --> 00:14:37,283
@@ -923,7 +923,7 @@ n'est ce pas ?
 
 208
 00:15:13,821 --> 00:15:15,956
-Trois rayons se sont cassÃ©s ce matin.
+Trois rayons se sont cassés ce matin.
 
 209
 00:15:15,990 --> 00:15:17,992
@@ -966,7 +966,7 @@ Dire des choses effrayantes
 218
 00:15:38,413 --> 00:15:41,181
 Tuer des jeunes garÃ§ons
-et des personnes Ã¢gÃ©es.
+et des personnes Ã¢gées.
 
 219
 00:15:41,248 --> 00:15:42,649
@@ -989,7 +989,7 @@ Je connais un tueur.
 223
 00:15:50,124 --> 00:15:51,725
 Tu ressemblerais
-Ã  un chaton Ã  cÃ´tÃ© de lui.
+Ã  un chaton Ã  cÃ´té de lui.
 
 224
 00:15:51,759 --> 00:15:54,094
@@ -1034,7 +1034,7 @@ Le Don, je pense.
 
 234
 00:16:35,235 --> 00:16:36,869
-Brandon le BÃ¢tisseur a donnÃ©
+Brandon le BÃ¢tisseur a donné
 toutes ces terres
 
 235
@@ -1043,7 +1043,7 @@ toutes ces terres
 
 236
 00:16:39,006 --> 00:16:41,941
-pour leur hospitalitÃ© et leur soutien.
+pour leur hospitalité et leur soutien.
 
 237
 00:16:41,976 --> 00:16:44,244
@@ -1104,7 +1104,7 @@ Je ne vois rienâ€¦
 250
 00:17:19,278 --> 00:17:20,979
 Cet endroit n'est pas plus mauvais
-qu'un autre pour se protÃ©ger.
+qu'un autre pour se protéger.
 
 251
 00:17:24,250 --> 00:17:26,585
@@ -1127,7 +1127,7 @@ avec huit chevaux ?
 
 255
 00:17:46,172 --> 00:17:48,039
-Il les Ã©lÃ¨ve pour la Garde.
+Il les élÃ¨ve pour la Garde.
 
 256
 00:17:48,074 --> 00:17:50,042
@@ -1163,7 +1163,7 @@ Le vieil homme n'est pas une menace.
 
 263
 00:18:05,761 --> 00:18:07,194
-Je te le rÃ©pÃ¨te.
+Je te le répÃ¨te.
 
 264
 00:18:07,228 --> 00:18:09,363
@@ -1200,8 +1200,8 @@ est difficile.
 
 271
 00:18:27,016 --> 00:18:28,950
-Les tuer Ã  l'extÃ©rieur
-quand ils sont vulnÃ©rables,
+Les tuer Ã  l'extérieur
+quand ils sont vulnérables,
 
 272
 00:18:29,017 --> 00:18:30,685
@@ -1209,7 +1209,7 @@ c'est comme Ã§a que l'on procÃ¨de.
 
 273
 00:18:30,719 --> 00:18:32,453
-RÃ©partissez-vous.
+Répartissez-vous.
 
 274
 00:18:32,521 --> 00:18:35,056
@@ -1221,7 +1221,7 @@ Ygritte !
 
 276
 00:19:21,136 --> 00:19:23,637
-VÃ©rifiez la grange !
+Vérifiez la grange !
 
 277
 00:20:00,808 --> 00:20:04,210
@@ -1243,16 +1243,16 @@ Je sais qu'ils sont encore lÃ .
 
 281
 00:20:16,325 --> 00:20:18,059
-Tu vÃ©rifies toutes les cinq minutes
+Tu vérifies toutes les cinq minutes
 
 282
 00:20:18,127 --> 00:20:20,661
-comme si tu Ã©tait effrayÃ©e
-qu'ils aient bougÃ©.
+comme si tu était effrayée
+qu'ils aient bougé.
 
 283
 00:20:20,696 --> 00:20:22,463
-Je ne suis pas effrayÃ©e.
+Je ne suis pas effrayée.
 
 284
 00:20:22,498 --> 00:20:24,732
@@ -1290,16 +1290,16 @@ quand je l'ai vue en toi.
 
 292
 00:20:46,756 --> 00:20:49,559
-Vous Ãªtes effrayÃ© par le feu.
+Vous Ãªtes effrayé par le feu.
 
 293
 00:20:49,627 --> 00:20:51,328
-Quand l'Ã©pÃ©e de Beric a pris feu,
+Quand l'épée de Beric a pris feu,
 
 294
 00:20:51,362 --> 00:20:53,196
 Vous ressembliez
-Ã  une petite fille effrayÃ©e.
+Ã  une petite fille effrayée.
 
 295
 00:20:56,835 --> 00:20:59,169
@@ -1321,7 +1321,7 @@ comme une bonne cÃ´telette
 
 299
 00:21:12,351 --> 00:21:14,519
-Ã‡a te donne quelques idÃ©es ?
+Ã‡a te donne quelques idées ?
 
 300
 00:21:17,356 --> 00:21:20,025
@@ -1342,7 +1342,7 @@ le faire toi-mÃªme.
 
 304
 00:21:28,434 --> 00:21:30,669
-Ils sont juste de l'autre cÃ´tÃ©
+Ils sont juste de l'autre cÃ´té
 de la riviÃ¨re.
 
 305
@@ -1352,11 +1352,11 @@ Ta famille la plus proche
 306
 00:21:32,872 --> 00:21:35,907
 depuis que Ilyn Payne
-a coupÃ© la tÃªte de ton pÃ¨re.
+a coupé la tÃªte de ton pÃ¨re.
 
 307
 00:21:39,345 --> 00:21:42,347
-Un jour, j'enfoncerai une Ã©pÃ©e
+Un jour, j'enfoncerai une épée
 Ã  travers votre Å“il
 
 308
@@ -1366,7 +1366,7 @@ et la ferai ressortir par votre crÃ¢ne.
 309
 00:22:08,739 --> 00:22:12,174
 Comment allons-nous passer
-de l'autre cÃ´tÃ© du Mur ?
+de l'autre cÃ´té du Mur ?
 
 310
 00:22:12,209 --> 00:22:14,143
@@ -1375,11 +1375,11 @@ Mon oncle disait qu'il mesure
 
 311
 00:22:19,483 --> 00:22:21,050
-Comment l'avez-vous passÃ© ?
+Comment l'avez-vous passé ?
 
 312
 00:22:25,088 --> 00:22:27,823
-J'ai pris un bateau et traversÃ©
+J'ai pris un bateau et traversé
 la Baie des Phoques.
 
 313
@@ -1411,18 +1411,18 @@ Hodor.
 
 319
 00:22:45,809 --> 00:22:48,043
-L'une de ces forteresses abandonnÃ©es
+L'une de ces forteresses abandonnées
   nous donnera un passage au travers.
 
 320
 00:22:48,077 --> 00:22:50,312
-Mon oncle a dit que les portes ont Ã©tÃ©
-scellÃ©es avec de la glace et des pierres
+Mon oncle a dit que les portes ont été
+scellées avec de la glace et des pierres
 
 321
 00:22:50,346 --> 00:22:51,780
 lorsque les forteresses
-ont Ã©tÃ© dÃ©sertÃ©es.
+ont été désertées.
 
 322
 00:22:51,814 --> 00:22:55,117
@@ -1444,7 +1444,7 @@ Juste un ?
 
 326
 00:23:07,398 --> 00:23:10,133
-- C'est juste le tonnerre, doux gÃ©ant.
+- C'est juste le tonnerre, doux géant.
 - Hodor.
 
 327
@@ -1458,7 +1458,7 @@ Je me rends.
 
 329
 00:23:19,344 --> 00:23:20,845
-OÃ¹ sont Broussaille et Ã‰tÃ© ?
+OÃ¹ sont Broussaille et Ã‰té ?
 
 330
 00:23:20,879 --> 00:23:22,880
@@ -1521,11 +1521,11 @@ Je ne sais pas.
 
 343
 00:24:17,502 --> 00:24:19,103
-Qu'est ce que c'Ã©tait ?
+Qu'est ce que c'était ?
 
 344
 00:24:20,338 --> 00:24:22,607
-C'Ã©tait un cheval mourrant.
+C'était un cheval mourrant.
 
 345
 00:24:32,684 --> 00:24:35,252
@@ -1533,7 +1533,7 @@ C'Ã©tait un cheval mourrant.
 
 346
 00:24:35,286 --> 00:24:38,455
-<i>C'Ã©tait le dernier d'entre-eux.
+<i>C'était le dernier d'entre-eux.
 Les autres sont morts.</i>
 
 347
@@ -1546,7 +1546,7 @@ Le tonnerre.
 
 349
 00:24:42,926 --> 00:24:45,494
-Je connais la diffÃ©rence
+Je connais la différence
  entre des coups et le tonnerre.
 
 350
@@ -1571,7 +1571,7 @@ Non, Ã§a n'en n'a plus maintenant.
 
 355
 00:25:13,456 --> 00:25:16,858
-Tranche-lui sa gorge ou il prÃ©viendra
+Tranche-lui sa gorge ou il préviendra
  les corbeaux que nous sommes ici.
 
 356
@@ -1585,7 +1585,7 @@ Laissez-moi me tenir debout au moins.
 358
 00:25:27,770 --> 00:25:29,938
 <i>Laissez-moi mourir
-avec un peu de dignitÃ©.</i>
+avec un peu de dignité.</i>
 
 359
 00:25:34,977 --> 00:25:36,678
@@ -1627,7 +1627,7 @@ Tu viens juste de le faire.
 
 368
 00:26:06,880 --> 00:26:08,848
-Un loup n'est rien Ã  cÃ´tÃ©.
+Un loup n'est rien Ã  cÃ´té.
 
 369
 00:26:16,556 --> 00:26:18,290
@@ -1723,7 +1723,7 @@ Daario Naharis.
 
 390
 00:29:41,995 --> 00:29:44,363
-<i>C'Ã©tait rapide.</i>
+<i>C'était rapide.</i>
 
 391
 00:29:47,133 --> 00:29:49,167
@@ -1732,7 +1732,7 @@ Daario Naharis.
 
 392
 00:29:49,202 --> 00:29:52,070
-Les YunkaÃ¯s prÃ©fÃ¨rent laisser
+Les YunkaÃ¯s préfÃ¨rent laisser
 leurs esclaves se battre pour eux.
 
 393
@@ -1751,7 +1751,7 @@ Lord Edmureâ€¦
 
 396
 00:32:24,826 --> 00:32:27,094
-J'espÃ¨re que je ne vous dÃ©Ã§ois pas.
+J'espÃ¨re que je ne vous déÃ§ois pas.
 
 397
 00:32:35,637 --> 00:32:38,106
@@ -1760,7 +1760,7 @@ Vous Ãªtes ravissante, mademoiselle.
 398
 00:32:39,742 --> 00:32:41,410
 Vous pouvez maintenant
-couvrir la mariÃ©e
+couvrir la mariée
 
 399
 00:32:41,444 --> 00:32:43,512
@@ -1776,7 +1776,7 @@ Je scelle ici ces deux Ã¢mes,
 
 402
 00:33:17,915 --> 00:33:21,517
-les joignant en une pour l'Ã©ternitÃ©.
+les joignant en une pour l'éternité.
 
 403
 00:33:21,552 --> 00:33:24,487
@@ -1807,7 +1807,7 @@ Vierge, AÃ¯eule, Ã‰trangerâ€¦
 409
 00:33:39,137 --> 00:33:43,140
 <i>â€¦ depuis ce jour et jusqu'Ã  ce que
-la mort nous sÃ©pare.</i>
+la mort nous sépare.</i>
 
 410
 00:33:47,846 --> 00:33:50,715
@@ -1821,11 +1821,11 @@ Tu avais raison.
 412
 00:33:57,755 --> 00:34:00,256
 Je peux m'immiscer dans l'esprit
-d'Ã‰tÃ© quand je veux.
+d'Ã‰té quand je veux.
 
 413
 00:34:00,323 --> 00:34:02,491
-Bien Ã©videment.
+Bien évidement.
 
 414
 00:34:03,793 --> 00:34:05,093
@@ -1842,7 +1842,7 @@ toutes sortes d'animaux.
 
 417
 00:34:12,301 --> 00:34:15,403
-Tu est entrÃ© dans l'esprit d'Hodor.
+Tu est entré dans l'esprit d'Hodor.
 
 418
 00:34:15,437 --> 00:34:18,272
@@ -1858,8 +1858,8 @@ Personne ne peut faire Ã§aâ€¦
 
 421
 00:34:30,520 --> 00:34:33,155
-Quand j'ai regardÃ© Ã  travers
-les yeux d'Ã‰tÃ©,
+Quand j'ai regardé Ã  travers
+les yeux d'Ã‰té,
 
 422
 00:34:33,189 --> 00:34:34,856
@@ -1868,12 +1868,12 @@ les yeux d'Ã‰tÃ©,
 
 423
 00:34:34,891 --> 00:34:36,658
-Il Ã©tait avec les sauvageons.
+Il était avec les sauvageons.
 
 424
 00:34:36,692 --> 00:34:38,727
-Ils ont essayÃ© de le tuer
-mais il s'est Ã©chappÃ©.
+Ils ont essayé de le tuer
+mais il s'est échappé.
 
 425
 00:34:38,761 --> 00:34:40,395
@@ -1887,12 +1887,12 @@ C'est ce qu'il devrait faire.
 427
 00:34:42,298 --> 00:34:44,666
 Aux derniÃ¨res nouvelles,
-ChÃ¢teaunoir est dÃ©jÃ  attaquÃ©.
+ChÃ¢teaunoir est déjÃ  attaqué.
 
 428
 00:34:44,701 --> 00:34:47,502
-- Si beaucoup de sauvageons sont infiltrÃ©sâ€¦
-- Je te l'ai dÃ©jÃ  dit.
+- Si beaucoup de sauvageons sont infiltrésâ€¦
+- Je te l'ai déjÃ  dit.
 
 429
 00:34:47,570 --> 00:34:49,538
@@ -1956,11 +1956,11 @@ Je suis ton frÃ¨re.
 
 443
 00:35:23,708 --> 00:35:26,010
-Je dois te protÃ©ger.
+Je dois te protéger.
 
 444
 00:35:27,913 --> 00:35:31,248
-En ce moment je dois te protÃ©ger.
+En ce moment je dois te protéger.
 
 445
 00:35:31,283 --> 00:35:34,418
@@ -1973,7 +1973,7 @@ Si quelque chose venait Ã  nous arriver,
 
 447
 00:35:36,855 --> 00:35:38,923
-tu es l'hÃ©ritier de Winterfell.
+tu es l'héritier de Winterfell.
 
 448
 00:35:40,959 --> 00:35:43,161
@@ -1986,7 +1986,7 @@ grands chÃ¢teaux et ne bougez jamais.
 
 450
 00:35:46,332 --> 00:35:47,966
-Vous Ãªtes facilement repÃ©rables.
+Vous Ãªtes facilement repérables.
 
 451
 00:35:48,034 --> 00:35:50,736
@@ -2007,7 +2007,7 @@ pour l'aventure.
 
 455
 00:36:01,782 --> 00:36:04,150
-Tu n'est pas obligÃ©e de faire Ã§a.
+Tu n'est pas obligée de faire Ã§a.
 
 456
 00:36:05,485 --> 00:36:06,952
@@ -2015,7 +2015,7 @@ Ta famille m'a recueillie
 
 457
 00:36:06,987 --> 00:36:09,322
-et a Ã©tÃ© bonne avec moi alors
+et a été bonne avec moi alors
 qu'elle n'avait aucune raison de l'Ãªtre.
 
 458
@@ -2032,11 +2032,11 @@ MÃªme moi j'en ai entendu parler.
 
 461
 00:36:18,966 --> 00:36:21,334
-Ils t'apprendront Ã  manier l'Ã©pÃ©e.
+Ils t'apprendront Ã  manier l'épée.
 
 462
 00:36:21,368 --> 00:36:24,904
-Je sais manier l'Ã©pÃ©e.
+Je sais manier l'épée.
 
 463
 00:36:31,811 --> 00:36:34,580
@@ -2045,7 +2045,7 @@ On est au milieu de la nuit.
 
 464
 00:36:34,614 --> 00:36:36,482
-J'ai appris Ã  marcher dans l'obscuritÃ©.
+J'ai appris Ã  marcher dans l'obscurité.
 
 465
 00:36:38,952 --> 00:36:40,653
@@ -2053,7 +2053,7 @@ Fais tes adieux, petit homme.
 
 466
 00:36:48,594 --> 00:36:50,829
-ProtÃ©gez-le.
+Protégez-le.
 
 467
 00:36:52,598 --> 00:36:54,665
@@ -2079,7 +2079,7 @@ le sac d'une ville ?
 
 472
 00:37:35,742 --> 00:37:37,843
-C'Ã©tait comme vous aviez dit.
+C'était comme vous aviez dit.
 
 473
 00:37:37,877 --> 00:37:41,279
@@ -2092,7 +2092,7 @@ Leurs soldats esclaves
 
 475
 00:37:43,349 --> 00:37:46,818
-ont jetÃ© leurs lances et se sont rendus.
+ont jeté leurs lances et se sont rendus.
 
 476
 00:37:50,922 --> 00:37:53,491
@@ -2104,7 +2104,7 @@ La ville est Ã  vous, ma reine.
 
 478
 00:38:39,741 --> 00:38:41,275
-Ils sont douÃ©s, non ?
+Ils sont doués, non ?
 
 479
 00:38:41,309 --> 00:38:43,043
@@ -2131,7 +2131,7 @@ depuis Vivesaigues,
 484
 00:39:02,931 --> 00:39:04,898
 <i>Les dieux aiment
-rÃ©compenser les idiots.</i>
+récompenser les idiots.</i>
 
 485
 00:39:04,933 --> 00:39:07,434
@@ -2145,7 +2145,7 @@ Je l'aime.
 
 487
 00:39:10,471 --> 00:39:12,473
-Et c'est un sacrÃ© idiot.
+Et c'est un sacré idiot.
 
 488
 00:39:17,845 --> 00:39:20,247
@@ -2154,7 +2154,7 @@ Vous ne buvez pas, Lord Bolton ?
 489
 00:39:20,281 --> 00:39:22,583
 Jamais, ma dame.
-Ã‡a Ã©mousse les sens.
+Ã‡a émousse les sens.
 
 490
 00:39:22,617 --> 00:39:24,852
@@ -2162,7 +2162,7 @@ C'est le but.
 
 491
 00:39:24,886 --> 00:39:26,687
-N'avez-vous pas Ã©pousÃ©
+N'avez-vous pas épousé
 l'une des filles Frey ?
 
 492
@@ -2171,7 +2171,7 @@ Ouais.
 
 493
 00:39:28,223 --> 00:39:30,291
-Lord Walder m'a laissÃ© choisir
+Lord Walder m'a laissé choisir
 l'une de ses petites-filles
 
 494
@@ -2218,7 +2218,7 @@ besoin de secours
 503
 00:39:55,184 --> 00:39:57,151
 que toutes les femmes
-que j'ai jamais rencontrÃ©es.
+que j'ai jamais rencontrées.
 
 504
 00:39:57,186 --> 00:39:58,253
@@ -2227,11 +2227,11 @@ Sois gentille.
 505
 00:39:58,287 --> 00:40:00,288
 Elle commence enfin
-Ã  t'apprÃ©cier.
+Ã  t'apprécier.
 
 506
 00:40:01,957 --> 00:40:03,758
-Et je l'apprÃ©cie.
+Et je l'apprécie.
 
 507
 00:40:03,793 --> 00:40:06,995
@@ -2250,7 +2250,7 @@ dans la main de Roslin Frey.</i>
 
 510
 00:40:13,369 --> 00:40:15,537
-Peut-Ãªtre ai-je fait une Ã©norme erreur.
+Peut-Ãªtre ai-je fait une énorme erreur.
 
 511
 00:40:18,441 --> 00:40:21,343
@@ -2275,7 +2275,7 @@ Le septon a dit ses priÃ¨res,
 
 516
 00:40:44,400 --> 00:40:46,601
-<i>des mots ont Ã©tÃ© dits,</i>
+<i>des mots ont été dits,</i>
 
 517
 00:40:46,636 --> 00:40:48,436
@@ -2283,7 +2283,7 @@ et Lord Edmure
 
 518
 00:40:48,504 --> 00:40:51,405
-a enveloppÃ© ma fille dans une cape.
+a enveloppé ma fille dans une cape.
 
 519
 00:40:51,440 --> 00:40:55,877
@@ -2292,7 +2292,7 @@ mari et femme.
 
 520
 00:40:55,911 --> 00:40:58,480
-Une Ã©pÃ©e a besoin d'un fourreau.
+Une épée a besoin d'un fourreau.
 
 521
 00:41:04,720 --> 00:41:08,289
@@ -2330,7 +2330,7 @@ Attention, mesdames.
 
 529
 00:42:03,781 --> 00:42:05,815
-Quand vous aurez libÃ©rÃ© ce monstre,
+Quand vous aurez libéré ce monstre,
 
 530
 00:42:05,850 --> 00:42:08,618
@@ -2346,12 +2346,12 @@ Pauvre fille.
 
 533
 00:42:17,327 --> 00:42:20,229
-Chaque mariÃ©e en passe par lÃ .
+Chaque mariée en passe par lÃ .
 
 534
 00:42:20,263 --> 00:42:22,865
 Je suis sÃ»r que vous avez
-endurÃ© le vÃ´tre avec grÃ¢ce.
+enduré le vÃ´tre avec grÃ¢ce.
 
 535
 00:42:22,899 --> 00:42:25,401
@@ -2364,15 +2364,15 @@ la mÃ¢choire d'un homme cette nuit-lÃ .
 
 537
 00:42:37,115 --> 00:42:40,216
-C'est une coutume trÃ¨s Ã©trange.
+C'est une coutume trÃ¨s étrange.
 
 538
 00:42:40,251 --> 00:42:42,152
-Je suppose que Ã§a peut paraÃ®tre Ã©trange
+Je suppose que Ã§a peut paraÃ®tre étrange
 
 539
 00:42:42,186 --> 00:42:43,853
-du point de vue d'un Ã©tranger.
+du point de vue d'un étranger.
 
 540
 00:42:43,888 --> 00:42:45,689
@@ -2384,13 +2384,13 @@ C'est la tradition.
 
 542
 00:42:49,961 --> 00:42:52,829
-Sans la cÃ©rÃ©monie du coucher,
+Sans la cérémonie du coucher,
 il n'y a pas de preuve
 
 543
 00:42:52,864 --> 00:42:55,399
 que le Seigneur et la Dame
-ont consommÃ© leur mariage.
+ont consommé leur mariage.
 
 544
 00:42:55,433 --> 00:42:58,769
@@ -2417,7 +2417,7 @@ Oh, vraiment ?
 549
 00:43:12,417 --> 00:43:15,854
 Je pense qu'un pÃ¨re a son mot Ã  dire
-sur le prÃ©nom de son fils.
+sur le prénom de son fils.
 
 550
 00:43:15,921 --> 00:43:17,255
@@ -2450,7 +2450,7 @@ OÃ¹ allez-vous?
 
 557
 00:44:49,650 --> 00:44:51,383
-J'ai du porc salÃ© pour le festin.
+J'ai du porc salé pour le festin.
 
 558
 00:44:51,451 --> 00:44:53,618
@@ -2467,7 +2467,7 @@ c'est fini, c'est fini.
 
 561
 00:44:58,991 --> 00:45:03,193
-Faites demi-tour et dÃ©gagez d'ici.
+Faites demi-tour et dégagez d'ici.
 
 562
 00:45:03,228 --> 00:45:05,195
@@ -2487,7 +2487,7 @@ Votre GrÃ¢ce.
 
 566
 00:45:30,354 --> 00:45:34,690
-Je pense avoir nÃ©gligÃ©
+Je pense avoir négligé
 
 567
 00:45:34,724 --> 00:45:36,458
@@ -2495,20 +2495,20 @@ mes devoirs.
 
 568
 00:45:36,492 --> 00:45:40,196
-<i>Je vous ai donnÃ© de la viande,
+<i>Je vous ai donné de la viande,
 du vin et de la musique,</i>
 
 569
 00:45:40,230 --> 00:45:42,898
-<i>mais je n'ai pas tÃ©moignÃ©</i>
+<i>mais je n'ai pas témoigné</i>
 
 570
 00:45:42,933 --> 00:45:46,001
-<i>de l'hospitalitÃ© que vous mÃ©ritez.</i>
+<i>de l'hospitalité que vous méritez.</i>
 
 571
 00:45:47,170 --> 00:45:48,638
-<i>Mon roi s'est mariÃ©</i>
+<i>Mon roi s'est marié</i>
 
 572
 00:45:48,672 --> 00:45:52,108
@@ -2526,7 +2526,7 @@ Tu es prÃªt Ã  rentrer
 
 575
 00:46:51,534 --> 00:46:53,034
-<i>Le festin est dÃ©jÃ  fini ?</i>
+<i>Le festin est déjÃ  fini ?</i>
 
 576
 00:46:53,069 --> 00:46:55,570
@@ -2546,7 +2546,7 @@ C'est trop tard.
 
 580
 00:48:44,346 --> 00:48:47,448
-Le Roi du Nord s'Ã©lÃ¨ve.
+Le Roi du Nord s'élÃ¨ve.
 
 581
 00:49:09,105 --> 00:49:11,306
@@ -2588,13 +2588,13 @@ Nous ne nous vengerons pas.
 
 590
 00:49:30,460 --> 00:49:34,129
-Vous m'avez dÃ©jÃ  prÃªtÃ©
+Vous m'avez déjÃ  prÃªté
 serment dans ce chÃ¢teau.
 
 591
 00:49:34,164 --> 00:49:37,966
-Vous avez jurÃ© devant tous les dieux
-que votre fils Ã©pouserait ma fille !
+Vous avez juré devant tous les dieux
+que votre fils épouserait ma fille !
 
 592
 00:49:38,001 --> 00:49:41,336
