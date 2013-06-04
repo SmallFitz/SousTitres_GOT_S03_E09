@@ -272,7 +272,7 @@ l'armée de Tywin et la mer.
 61
 00:05:17,355 --> 00:05:20,857
 Tu perdra la guerre et tu mourra
-de la mÃªme faÃ§on que Père.
+de la même faÃ§on que Père.
 
 62
 00:05:20,891 --> 00:05:22,892
@@ -472,7 +472,7 @@ et les Starks de Winterfell
 
 106
 00:08:33,783 --> 00:08:35,683
-puissent de nouveau Ãªtre amis.
+puissent de nouveau être amis.
 
 107
 00:08:43,025 --> 00:08:44,893
@@ -703,12 +703,12 @@ la ville tombera en quelques heures.
 
 159
 00:11:58,090 --> 00:12:00,993
-Ou peut-Ãªtre vous mènerez Gris Vers
+Ou peut-être vous mènerez Gris Vers
 et moi Ã  l'abattoir,
 
 160
 00:12:01,027 --> 00:12:03,495
-tranchant la tÃªte de notre armée.
+tranchant la tête de notre armée.
 
 161
 00:12:03,530 --> 00:12:06,265
@@ -778,7 +778,7 @@ une épée supplémentaire.
 
 176
 00:12:50,476 --> 00:12:52,978
-Vous Ãªtes le garde de la reine,
+Vous êtes le garde de la reine,
 Ser Barristan.
 
 177
@@ -792,7 +792,7 @@ ses loyaux serviteurs,
 
 179
 00:12:57,550 --> 00:12:59,585
-nous ferons ce qui doit Ãªtre fait
+nous ferons ce qui doit être fait
 
 180
 00:12:59,619 --> 00:13:03,756
@@ -838,7 +838,7 @@ Il y a une sortie secrète,
 189
 00:13:30,117 --> 00:13:32,685
 la Porte Noire, aussi vieille
-que le Mur lui-mÃªme.
+que le Mur lui-même.
 
 190
 00:13:32,719 --> 00:13:36,455
@@ -1095,7 +1095,7 @@ C'est ce que la vieille Nan a dit.
 
 248
 00:17:10,436 --> 00:17:12,104
-Une tempÃªte approche.
+Une tempête approche.
 
 249
 00:17:13,473 --> 00:17:15,774
@@ -1131,7 +1131,7 @@ Il les élève pour la Garde.
 
 256
 00:17:48,074 --> 00:17:50,042
-Comment empÃªche-t-il
+Comment empêche-t-il
 les gens de les lui voler ?
 
 257
@@ -1225,7 +1225,7 @@ Vérifiez la grange !
 
 277
 00:20:00,808 --> 00:20:04,210
-Personne ne croira que vous Ãªtes fermier
+Personne ne croira que vous êtes fermier
   si vous les mangez tous.
 
 278
@@ -1290,7 +1290,7 @@ quand je l'ai vue en toi.
 
 292
 00:20:46,756 --> 00:20:49,559
-Vous Ãªtes effrayé par le feu.
+Vous êtes effrayé par le feu.
 
 293
 00:20:49,627 --> 00:20:51,328
@@ -1325,7 +1325,7 @@ comme une bonne côtelette
 
 300
 00:21:17,356 --> 00:21:20,025
-Peut-Ãªtre.
+Peut-être.
 
 301
 00:21:20,059 --> 00:21:22,394
@@ -1337,8 +1337,8 @@ Tu pourrais t'enfuir.
 
 303
 00:21:24,831 --> 00:21:27,366
-Tu pourrais mÃªme
-le faire toi-mÃªme.
+Tu pourrais même
+le faire toi-même.
 
 304
 00:21:28,434 --> 00:21:30,669
@@ -1352,7 +1352,7 @@ Ta famille la plus proche
 306
 00:21:32,872 --> 00:21:35,907
 depuis que Ilyn Payne
-a coupé la tÃªte de ton père.
+a coupé la tête de ton père.
 
 307
 00:21:39,345 --> 00:21:42,347
@@ -1389,11 +1389,11 @@ Cela nous prendrait deux mois
 
 314
 00:22:31,093 --> 00:22:33,228
-Certains grimpent Ã  mÃªme la glace.
+Certains grimpent Ã  même la glace.
 
 315
 00:22:33,295 --> 00:22:36,564
-MÃªme Hodor n'est pas assez fort pour
+Même Hodor n'est pas assez fort pour
 grimper le mur avec moi sur le dos.
 
 316
@@ -1551,7 +1551,7 @@ Je connais la différence
 
 350
 00:24:45,529 --> 00:24:48,663
-Peut-Ãªtre des fantômes.
+Peut-être des fantômes.
 
 351
 00:24:58,574 --> 00:25:00,909
@@ -1607,7 +1607,7 @@ Je ne peux pas le faire volontairement.
 363
 00:25:55,100 --> 00:25:59,137
 Je ne sais pas comment.
-Ã‡a se passe dans mes rÃªves.
+Ã‡a se passe dans mes rêves.
 
 364
 00:25:59,171 --> 00:26:01,273
@@ -1755,7 +1755,7 @@ J'espère que je ne vous déÃ§ois pas.
 
 397
 00:32:35,637 --> 00:32:38,106
-Vous Ãªtes ravissante, mademoiselle.
+Vous êtes ravissante, mademoiselle.
 
 398
 00:32:39,742 --> 00:32:41,410
@@ -1986,7 +1986,7 @@ grands châteaux et ne bougez jamais.
 
 450
 00:35:46,332 --> 00:35:47,966
-Vous Ãªtes facilement repérables.
+Vous êtes facilement repérables.
 
 451
 00:35:48,034 --> 00:35:50,736
@@ -2016,7 +2016,7 @@ Ta famille m'a recueillie
 457
 00:36:06,987 --> 00:36:09,322
 et a été bonne avec moi alors
-qu'elle n'avait aucune raison de l'Ãªtre.
+qu'elle n'avait aucune raison de l'être.
 
 458
 00:36:11,725 --> 00:36:13,993
@@ -2028,7 +2028,7 @@ Les Ombles sont de grands combattants.
 
 460
 00:36:16,296 --> 00:36:18,931
-MÃªme moi j'en ai entendu parler.
+Même moi j'en ai entendu parler.
 
 461
 00:36:18,966 --> 00:36:21,334
@@ -2108,7 +2108,7 @@ Ils sont doués, non ?
 
 479
 00:38:41,309 --> 00:38:43,043
-Ils ont interÃªt
+Ils ont interêt
 vu ce qu'ils coÃ»tent.
 
 480
@@ -2250,7 +2250,7 @@ dans la main de Roslin Frey.</i>
 
 510
 00:40:13,369 --> 00:40:15,537
-Peut-Ãªtre ai-je fait une énorme erreur.
+Peut-être ai-je fait une énorme erreur.
 
 511
 00:40:18,441 --> 00:40:21,343
@@ -2259,7 +2259,7 @@ est un acte de trahison.
 
 512
 00:40:24,681 --> 00:40:26,449
-ArrÃªte.
+Arrête.
 
 513
 00:40:27,384 --> 00:40:29,018
@@ -2454,7 +2454,7 @@ J'ai du porc salé pour le festin.
 
 558
 00:44:51,451 --> 00:44:53,618
-La fÃªte est finie.
+La fête est finie.
 
 559
 00:44:53,653 --> 00:44:56,054
@@ -2521,7 +2521,7 @@ Robb !
 
 574
 00:46:46,195 --> 00:46:48,296
-Tu es prÃªt Ã  rentrer
+Tu es prêt Ã  rentrer
 Ã  Winterfell, n'est-ce pas ?
 
 575
@@ -2558,7 +2558,7 @@ Lord Walder, assez !
 
 583
 00:49:13,008 --> 00:49:15,443
-ArrÃªtez !
+Arrêtez !
 
 584
 00:49:17,046 --> 00:49:19,080
@@ -2588,7 +2588,7 @@ Nous ne nous vengerons pas.
 
 590
 00:49:30,460 --> 00:49:34,129
-Vous m'avez déjÃ  prÃªté
+Vous m'avez déjÃ  prêté
 serment dans ce château.
 
 591
