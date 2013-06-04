@@ -101,17 +101,17 @@ Vous battrez vous pour moi ?
 
 22
 00:00:53,221 --> 00:00:56,257
-Les Puinés sont vÃ´tres
+Les Puinés sont vôtres
 tout comme Daario Naharis.
 
 23
 00:00:56,291 --> 00:00:58,326
-Mon épée est vÃ´tre,
-ma vie est vÃ´tre,
+Mon épée est vôtre,
+ma vie est vôtre,
 
 24
 00:00:58,360 --> 00:01:00,094
-mon cÅ“ur est vÃ´tre.
+mon cÅ“ur est vôtre.
 
 25
 00:01:00,129 --> 00:01:03,665
@@ -989,7 +989,7 @@ Je connais un tueur.
 223
 00:15:50,124 --> 00:15:51,725
 Tu ressemblerais
-Ã  un chaton Ã  cÃ´té de lui.
+Ã  un chaton Ã  côté de lui.
 
 224
 00:15:51,759 --> 00:15:54,094
@@ -1316,7 +1316,7 @@ Enfoncer votre visage dans le feu
 
 298
 00:21:05,978 --> 00:21:08,546
-comme une bonne cÃ´telette
+comme une bonne côtelette
  de mouton juteuse.
 
 299
@@ -1342,7 +1342,7 @@ le faire toi-mÃªme.
 
 304
 00:21:28,434 --> 00:21:30,669
-Ils sont juste de l'autre cÃ´té
+Ils sont juste de l'autre côté
 de la rivière.
 
 305
@@ -1366,7 +1366,7 @@ et la ferai ressortir par votre crâne.
 309
 00:22:08,739 --> 00:22:12,174
 Comment allons-nous passer
-de l'autre cÃ´té du Mur ?
+de l'autre côté du Mur ?
 
 310
 00:22:12,209 --> 00:22:14,143
@@ -1551,7 +1551,7 @@ Je connais la différence
 
 350
 00:24:45,529 --> 00:24:48,663
-Peut-Ãªtre des fantÃ´mes.
+Peut-Ãªtre des fantômes.
 
 351
 00:24:58,574 --> 00:25:00,909
@@ -1593,7 +1593,7 @@ Fais-le tuer par le corbeau.
 
 360
 00:25:40,216 --> 00:25:43,619
-Tu es l'un des nÃ´tres maintenant.
+Tu es l'un des nôtres maintenant.
 Prouve-le.
 
 361
@@ -1627,7 +1627,7 @@ Tu viens juste de le faire.
 
 368
 00:26:06,880 --> 00:26:08,848
-Un loup n'est rien Ã  cÃ´té.
+Un loup n'est rien Ã  côté.
 
 369
 00:26:16,556 --> 00:26:18,290
@@ -1833,7 +1833,7 @@ Au nord du Mur il y a des sauvageons
 
 415
 00:34:05,128 --> 00:34:08,129
-qui peuvent contrÃ´ler
+qui peuvent contrôler
 toutes sortes d'animaux.
 
 416
@@ -2351,7 +2351,7 @@ Chaque mariée en passe par lÃ .
 534
 00:42:20,263 --> 00:42:22,865
 Je suis sÃ»r que vous avez
-enduré le vÃ´tre avec grâce.
+enduré le vôtre avec grâce.
 
 535
 00:42:22,899 --> 00:42:25,401
