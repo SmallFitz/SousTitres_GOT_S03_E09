@@ -11,11 +11,11 @@ et de magie noire ?</i>
 3
 00:00:05,737 --> 00:00:08,057
 Je ne veux plus que tu lui parles
-jusqu'Ã  ce qu'on arrive Ã  ChÃ¢teaunoir.
+jusqu'Ã  ce qu'on arrive Ã  Châteaunoir.
 
 4
 00:00:08,073 --> 00:00:10,741
-Nous n'allons pas Ã  ChÃ¢teaunoir.
+Nous n'allons pas Ã  Châteaunoir.
 Jon Snow n'est pas lÃ -bas.
 
 5
@@ -30,7 +30,7 @@ Non, je ne retourne pas lÃ -bas.
 7
 00:00:14,247 --> 00:00:17,382
 J'ai promis Ã  votre mestre de vous
-emmener Ã  ChÃ¢teaunoir, pas plus loin.
+emmener Ã  Châteaunoir, pas plus loin.
 
 8
 00:00:17,416 --> 00:00:19,985
@@ -194,7 +194,7 @@ C'est dangereux.
 
 43
 00:03:59,279 --> 00:04:02,247
-Si nous prenons le ChÃ¢teau de Tywin,
+Si nous prenons le Château de Tywin,
 
 44
 00:04:02,282 --> 00:04:05,550
@@ -203,7 +203,7 @@ qu'il n'est pas invincible.
 
 45
 00:04:05,618 --> 00:04:07,052
-Prendre son chÃ¢teau,
+Prendre son château,
 
 46
 00:04:07,153 --> 00:04:09,187
@@ -262,7 +262,7 @@ Si des renforts arrivent de Port Réal
 
 59
 00:05:05,511 --> 00:05:07,879
-<i>avant qu'on ne prenne le chÃ¢teauâ€¦</i>
+<i>avant qu'on ne prenne le châteauâ€¦</i>
 
 60
 00:05:09,248 --> 00:05:13,084
@@ -586,7 +586,7 @@ Et je peux respecter Ã§a.
 
 133
 00:10:29,131 --> 00:10:32,400
-Quand j'avais ton Ã¢ge,
+Quand j'avais ton âge,
 j'aurais brisé 50 serments
 
 134
@@ -801,7 +801,7 @@ peu importe notre fierté.
 
 181
 00:13:06,827 --> 00:13:09,329
-Nous sommes Ã  l'ouest de ChÃ¢teaunoir,
+Nous sommes Ã  l'ouest de Châteaunoir,
 
 182
 00:13:09,363 --> 00:13:11,364
@@ -809,7 +809,7 @@ mais le Fort Nox est plus près.
 
 183
 00:13:11,431 --> 00:13:14,534
-Il était le premier chÃ¢teau
+Il était le premier château
 le long du Mur.
 
 184
@@ -824,7 +824,7 @@ Impossible Ã  maintenir.
 
 186
 00:13:21,708 --> 00:13:24,043
-Â part ChÃ¢teaunoir,
+Â part Châteaunoir,
 
 187
 00:13:24,077 --> 00:13:26,545
@@ -966,7 +966,7 @@ Dire des choses effrayantes
 218
 00:15:38,413 --> 00:15:41,181
 Tuer des jeunes garÃ§ons
-et des personnes Ã¢gées.
+et des personnes âgées.
 
 219
 00:15:41,248 --> 00:15:42,649
@@ -1034,7 +1034,7 @@ Le Don, je pense.
 
 234
 00:16:35,235 --> 00:16:36,869
-Brandon le BÃ¢tisseur a donné
+Brandon le Bâtisseur a donné
 toutes ces terres
 
 235
@@ -1082,7 +1082,7 @@ volent et emportent les femmes.
 245
 00:17:01,728 --> 00:17:03,929
 La vieille Nan a dit qu'ils
-transformaient ton crÃ¢ne en coupe
+transformaient ton crâne en coupe
 
 246
 00:17:03,964 --> 00:17:06,031
@@ -1195,7 +1195,7 @@ J'espère.
 
 270
 00:18:24,045 --> 00:18:26,981
-Tuer des corbeaux dans leur chÃ¢teau
+Tuer des corbeaux dans leur château
 est difficile.
 
 271
@@ -1361,7 +1361,7 @@ Un jour, j'enfoncerai une épée
 
 308
 00:21:42,381 --> 00:21:44,015
-et la ferai ressortir par votre crÃ¢ne.
+et la ferai ressortir par votre crâne.
 
 309
 00:22:08,739 --> 00:22:12,174
@@ -1402,7 +1402,7 @@ Hodor.
 
 317
 00:22:39,835 --> 00:22:42,370
-19 chÃ¢teaux gardent le Mur.
+19 châteaux gardent le Mur.
 
 318
 00:22:42,405 --> 00:22:45,774
@@ -1772,7 +1772,7 @@ Sous le regard des Sept,
 
 401
 00:33:14,211 --> 00:33:17,880
-Je scelle ici ces deux Ã¢mes,
+Je scelle ici ces deux âmes,
 
 402
 00:33:17,915 --> 00:33:21,517
@@ -1878,7 +1878,7 @@ mais il s'est échappé.
 425
 00:34:38,761 --> 00:34:40,395
 <i>Il est sÃ»rement en train de
-rentrer Ã  ChÃ¢teaunoir alors.</i>
+rentrer Ã  Châteaunoir alors.</i>
 
 426
 00:34:40,430 --> 00:34:42,264
@@ -1887,7 +1887,7 @@ C'est ce qu'il devrait faire.
 427
 00:34:42,298 --> 00:34:44,666
 Aux dernières nouvelles,
-ChÃ¢teaunoir est déjÃ  attaqué.
+Châteaunoir est déjÃ  attaqué.
 
 428
 00:34:44,701 --> 00:34:47,502
@@ -1982,7 +1982,7 @@ Saurais-tu trouver l'Ã‚tre ?
 449
 00:35:43,195 --> 00:35:46,298
 Vous les sudistes construisez de
-grands chÃ¢teaux et ne bougez jamais.
+grands châteaux et ne bougez jamais.
 
 450
 00:35:46,332 --> 00:35:47,966
@@ -2267,7 +2267,7 @@ Ne les insulte pas.
 
 514
 00:40:31,688 --> 00:40:33,689
-Votre GrÃ¢ce.
+Votre Grâce.
 
 515
 00:40:40,463 --> 00:40:44,366
@@ -2351,7 +2351,7 @@ Chaque mariée en passe par lÃ .
 534
 00:42:20,263 --> 00:42:22,865
 Je suis sÃ»r que vous avez
-enduré le vÃ´tre avec grÃ¢ce.
+enduré le vÃ´tre avec grâce.
 
 535
 00:42:22,899 --> 00:42:25,401
@@ -2360,7 +2360,7 @@ Oh, Ned l'avait interdit.
 536
 00:42:25,436 --> 00:42:28,638
 Il disait qu'il ne fallait pas briser
-la mÃ¢choire d'un homme cette nuit-lÃ .
+la mâchoire d'un homme cette nuit-lÃ .
 
 537
 00:42:37,115 --> 00:42:40,216
@@ -2483,7 +2483,7 @@ Fais demi-tour.
 
 565
 00:45:22,879 --> 00:45:24,513
-Votre GrÃ¢ce.
+Votre Grâce.
 
 566
 00:45:30,354 --> 00:45:34,690
@@ -2589,7 +2589,7 @@ Nous ne nous vengerons pas.
 590
 00:49:30,460 --> 00:49:34,129
 Vous m'avez déjÃ  prÃªté
-serment dans ce chÃ¢teau.
+serment dans ce château.
 
 591
 00:49:34,164 --> 00:49:37,966
